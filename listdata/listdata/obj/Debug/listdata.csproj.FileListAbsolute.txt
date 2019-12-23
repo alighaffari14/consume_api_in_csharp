@@ -1,0 +1,35 @@
+C:\Users\ghaffari\Desktop\listdata\listdata\bin\Debug\listdata.exe.config
+C:\Users\ghaffari\Desktop\listdata\listdata\bin\Debug\listdata.exe
+C:\Users\ghaffari\Desktop\listdata\listdata\bin\Debug\listdata.pdb
+C:\Users\ghaffari\Desktop\listdata\listdata\obj\Debug\listdata.csprojAssemblyReference.cache
+C:\Users\ghaffari\Desktop\listdata\listdata\obj\Debug\listdata.csproj.CoreCompileInputs.cache
+C:\Users\ghaffari\Desktop\listdata\listdata\obj\Debug\listdata.csproj.CopyComplete
+C:\Users\ghaffari\Desktop\listdata\listdata\obj\Debug\listdata.exe
+C:\Users\ghaffari\Desktop\listdata\listdata\obj\Debug\listdata.pdb
+C:\Users\ghaffari\Desktop\listdata\listdata\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ghaffari\Desktop\listdata\listdata\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ghaffari\Desktop\listdata\listdata\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ghaffari\Desktop\listdata\listdata\bin\Debug\System.Net.Http.Formatting.xml
+H:\Software House\Tech\Freelancer\listdata\listdata\listdata\bin\Debug\listdata.exe.config
+H:\Software House\Tech\Freelancer\listdata\listdata\listdata\obj\Debug\listdata.exe
+H:\Software House\Tech\Freelancer\listdata\listdata\listdata\obj\Debug\listdata.pdb
+H:\Software House\Tech\Freelancer\listdata\listdata\listdata\bin\Debug\listdata.exe
+H:\Software House\Tech\Freelancer\listdata\listdata\listdata\bin\Debug\listdata.pdb
+H:\Software House\Tech\Freelancer\listdata\listdata\listdata\bin\Debug\Newtonsoft.Json.dll
+H:\Software House\Tech\Freelancer\listdata\listdata\listdata\bin\Debug\Newtonsoft.Json.xml
+H:\Software House\Tech\Freelancer\listdata\listdata\listdata\bin\Debug\System.Net.Http.Formatting.dll
+H:\Software House\Tech\Freelancer\listdata\listdata\listdata\bin\Debug\System.Net.Http.Formatting.xml
+H:\Software House\Tech\Freelancer\listdata\listdata\listdata\obj\Debug\listdata.csprojAssemblyReference.cache
+H:\Software House\Tech\Freelancer\listdata\listdata\listdata\obj\Debug\listdata.csproj.CoreCompileInputs.cache
+H:\Software House\Tech\Freelancer\listdata\listdata\listdata\obj\Debug\listdata.csproj.CopyComplete
+G:\Software House\Tech\Freelancer\listdata\listdata\listdata\bin\Debug\listdata.exe.config
+G:\Software House\Tech\Freelancer\listdata\listdata\listdata\bin\Debug\listdata.exe
+G:\Software House\Tech\Freelancer\listdata\listdata\listdata\bin\Debug\listdata.pdb
+G:\Software House\Tech\Freelancer\listdata\listdata\listdata\bin\Debug\Newtonsoft.Json.dll
+G:\Software House\Tech\Freelancer\listdata\listdata\listdata\bin\Debug\System.Net.Http.Formatting.dll
+G:\Software House\Tech\Freelancer\listdata\listdata\listdata\bin\Debug\Newtonsoft.Json.xml
+G:\Software House\Tech\Freelancer\listdata\listdata\listdata\bin\Debug\System.Net.Http.Formatting.xml
+G:\Software House\Tech\Freelancer\listdata\listdata\listdata\obj\Debug\listdata.csprojAssemblyReference.cache
+G:\Software House\Tech\Freelancer\listdata\listdata\listdata\obj\Debug\listdata.csproj.CopyComplete
+G:\Software House\Tech\Freelancer\listdata\listdata\listdata\obj\Debug\listdata.exe
+G:\Software House\Tech\Freelancer\listdata\listdata\listdata\obj\Debug\listdata.pdb
